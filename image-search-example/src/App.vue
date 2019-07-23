@@ -4,12 +4,12 @@
       <label>Search</label>
       <input v-model="search">
     </form>
-    <div v-if="loading">
+    <section v-if="loading" class="loading">
       <img alt="loading" src="https://media2.giphy.com/media/l3nWhI38IWDofyDrW/giphy.gif?cid=790b76115d055ab7424f75514dcb4d7a&rid=giphy.gif" />
-    </div>
-    <div v-if="!loading" class="images">
+    </section>
+    <section v-if="!loading" class="images">
       <img v-for="gif in gifs" :src="gif" :key="gif" />
-    </div>
+    </section>
   </div>
 </template>
 
@@ -45,11 +45,21 @@ export default {
 </script>
 
 <style>
-.images {
+section.images {
   column-count: 4;
 }
 
 img {
   width: 100%;
+}
+
+section.loading {
+  width: 100%;
+}
+
+section.loading img {
+  width: 50%;
+  display: block;
+  margin: 0 auto;
 }
 </style>

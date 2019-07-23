@@ -1,62 +1,6 @@
-#### To view this as a slide deck:
-
-`npm install`
-
-`npm start`
-
----
-
-<!-- .slide: data-background-video="https://cdn.flixel.com/flixel/ogd95qysaotxsgbycmxq.hd.mp4" data-background-video-loop="loop" data-background-video-muted -->
-
-### <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" style="height:70px;margin:-15px" class="slide-img" />ue 3.x
-### Function-based Component API
-
-<center>
-  <div style="background:rgba(0,0,0,0.8);width:400px;padding:20px;font-size:0.8em !important;">
-    <code>@cj</code> on Denver Devs
-    <br />
-    <code>cj@null.computer</code>
-    <br />
-    git.io/w3cj
-    <br />
-    <br />
-    w3cj.sh
-    <br />
-    <br />
-    YouTube.com/c/CodingGardenWithCJ
-  </div>
-</center>
-
----
-
-<!-- .slide: data-background-video="https://cdn.flixel.com/flixel/52vy4yxt8yw76d2u8dsm.tablet.mp4" data-background-video-loop="loop" data-background-video-muted -->
-
-<div class="dark-bg fragment">
-  Hello friends! <span class="emoji">👋</span>
-  My name is <span class="red">CJ <span class="emoji">👽</span></span>.
-</div>
-
-<div class="dark-bg fragment">
-  I am a <strong>Full Stack Engineer <span class="emoji">🥞</span></strong>,
-  <strong>Educator <span class="emoji">🏫</span></strong>, and
-  <strong>Maker <span class="emoji">🛠</span>
-</div>
-
----
-
-<!-- .slide: data-background="https://i.imgur.com/KhmG5PG.jpg"  -->
-
-<div class="dark-bg">
-  <h3>Chief Full Stack Engineer</h3>
-  <h2>at</h2>
-  <img src="https://i.imgur.com/tjbVFRu.png" style="height:100px;width:auto;">
-</div>
-
----
-
 <!-- .slide: data-background-video="https://cdn.flixel.com/flixel/x9dr8caygivq5secll7i.hd.mp4" data-background-video-loop="loop" data-background-video-muted -->
 
-### <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" style="height:70px;margin:-15px" class="slide-img" />ue 3.x
+### <img src="https://i.imgur.com/ykonHcG.png" style="height:70px;margin:-15px" class="slide-img" />ue 3.x
 ### Function-based Component API
 
 <div class="dark-bg text-left">
