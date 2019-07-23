@@ -138,6 +138,10 @@ Vue.use(plugin);
 <div class="dark-bg">
   <h1>Build a simple image search app with the new API</h1>
 </div>
+<br />
+<div class="dark-bg">
+  View the code <a href="https://github.com/w3cj/vue-fn-api/blob/master/image-search-example/src/App.vue">here</a>.
+</div>
 
 ---
 
